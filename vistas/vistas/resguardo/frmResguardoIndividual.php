@@ -1,4 +1,4 @@
-<?php $lalo="";
+<?php 
 $numEmpleado = @($_GET["ne"]);
 ?>
 
