@@ -1,0 +1,64 @@
+.alert {
+    display: none;
+}
+
+#divHideForm {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    opacity: .5;
+    z-index: 99999;
+    background: #427468;
+}
+
+#divMenssage {
+    width: 100%;
+    height: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 40vh;
+    margin-bottom: auto;
+    color: #284740;
+    background: #FFFFFF;
+    text-transform: uppercase;
+}
+
+#divImgloading {
+    background: #FFFFFF url(../img/cargando_1.gif) no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    top: 200;
+    left: 0;
+    z-index: 999;
+}
+
+.panel panel-default {
+    background: #427468;
+    color: #ebf3f1;
+}
+
+.panel-heading {
+    background: #427468;
+    color: #ebf3f1;
+}
+
+.panel-group .panel-heading {
+    background: #427468;
+    color: #ebf3f1;
+}
+
+.panel-default > .panel-heading {
+    background: #427468;
+    color: #ebf3f1;
+}
+
+.needed:after {
+    color: darkred;
+    content: " (*)";
+}

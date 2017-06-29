@@ -1,0 +1,15 @@
+     function sanitizeFileName($dangerous_filename)
+        {
+        
+                  if ((strripos($dangerous_filename,".")>0)&&(strripos($dangerous_filename,".")!=FALSE))
+                  {
+                  $lpos=strripos($dangerous_filename,"."); 
+                  }
+                  
+                  $dangerous_characters = array(".","+","*","="," ", '"', "'", "&", "/", "\\", "?", "#");
+
+                  $cleanstring=str_replace($dangerous_characters, '_', $dangerous_filename);                  
+                  $cleanstring[$lpos]='.';
+                  
+                  return $cleanstring; 
+        }

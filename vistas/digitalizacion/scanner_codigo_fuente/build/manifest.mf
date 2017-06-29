@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_73-b02 (Oracle Corporation)
+X-COMMENT: Main-Class will be added automatically by build
+Codebase: C:\te\scanner\dist
+Application-Library-Allowable-Codebase: C:\te\scanner\dist
+Caller-Allowable-Codebase: C:\te\scanner\dist
+Permissions: all-permissions
+Application-Name: scanner
+

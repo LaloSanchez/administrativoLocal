@@ -1,0 +1,289 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9/01/2017, 05:27:15 PM
+    Author     : PJEM
+*/
+
+.chosen-container{
+    width: 100% !important;
+}
+.chosen-container-single .chosen-search input[type="text"]{
+    width: 90% !important; 
+}
+.table thead.bordered-darkorange>tr>th {
+    border-bottom: 5px solid #fff;
+    z-index: 4;
+}
+.fc-border-separate thead tr, .table thead tr {
+    background: #D6D1C4;
+    border-radius: 5px;
+}
+.row-fluid{
+    /*background: #E7E7E8;*/
+}
+.chosen-container ul.chosen-results li.highlighted {
+    background-color: #358DDD;
+    background-image: none;
+}
+.md-form label.active {
+    font-size: .8rem;
+}
+.chosen-container-single .chosen-single {
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    color: #555555;
+    display: block;
+    height: 34px;
+    overflow: hidden;
+    line-height: 34px;
+    padding: 0 0 0 8px;
+    position: relative;
+    text-decoration: none;
+    white-space: nowrap;
+    border: 1px transparent !important;
+    box-shadow: inset 0 -1px 0 #cccccc !important;
+    border-radius: 0px !important;
+} 
+.chosen-container-single .chosen-single:focus{
+    
+    border: 1px transparent !important;
+    box-shadow: inset 0 -2px 0 #358DDD !important;
+    border-radius: 0px !important;
+} 
+
+ h1{
+    font-family: Roboto,sans-serif  !important;
+    font-size: 30px;
+    font-weight: bold !important;
+    color: #646469 ;
+}
+h2{
+     font-family: Roboto,sans-serif  !important;
+    font-size: 18px;
+    color: #646469 ;
+}
+body:before {
+    background-color: #fff;
+}
+.footerTable{
+    background-color: #e3e3e2;
+    font-family: Roboto,sans-serif  !important;
+    color: #8c8c91 ;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+.headerTable{
+    font-family: Roboto,sans-serif  !important;
+    color: #8c8c91 ;
+    border-radius: 5px;
+}
+.btn-primary:hover {
+    background-color: #df3338 !important;
+}
+
+.btn-icon{
+    margin-right: 12px !important;
+}
+
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    background-color: #df3338;
+    border-color: #881518;
+}
+.pagination>li>a, .pagination>li>span {
+    
+    color: #474747;
+    text-decoration: none;
+    background-color: #e3e3e2;
+    border: 1px solid #cccccc;
+}
+.pagination>li.disabled>a, .pager>li.disabled>a, .pagination>li.disabled>a:hover, .pager>li.disabled>a:hover {
+    background-color: rgba(249, 249, 249, 0);
+    border-color: rgba(217, 217, 217, 0);
+}
+.pagination>li>a, .pagination>li>span {
+    color: #474747;
+    text-decoration: none;
+    background-color: rgba(227, 227, 226, 0);
+    border: 1px solid rgba(204, 204, 204, 0);
+}
+
+.btn-primary:focus, .btn-primary:hover {
+    background-color: #df3338 !important;
+}
+.ui.search.dropdown {
+    min-width: '';
+    border: 1px transparent;
+    box-shadow: inset 0 -1px 0 #cccccc;
+    /* background-color: white; */
+    border-radius: 0px;
+}
+.ui.search.dropdown:hover {
+    min-width: '';
+    border: 1px transparent;
+    box-shadow: inset 0 -1px 0 #cccccc;
+    /* background-color: white; */
+    border-radius: 0px;
+}
+.ui.search.dropdown:focus {
+    min-width: '';
+    border: 1px transparent;
+    box-shadow: inset 0 -2px 0 #358DDD;
+    border-radius: 0px;
+}
+.ui.selection.active.dropdown .menu {
+    height: 151px;
+}
+.form-group{
+    margin-top: 15px;
+}
+.ui.search {
+    font-size: 14pt;
+}
+.formNew{
+    margin-top: 15px;
+} 
+.titleCombo{
+    margin-bottom: 0;
+}
+div.dataTables_wrapper div.dataTables_info {
+    padding-top: 8px;
+    white-space: pre-line !important;
+}
+/* RADIO BUTTON MDB */
+/*
+<fieldset class="form-group">
+   <input name="name" type="radio" class="radio-blue with-gap" id="">
+    <label for="">option 1</label>
+</fieldset>
+<fieldset class="form-group">
+   <input name="name" type="radio" class="radio-blue with-gap" id="">
+    <label for="">option 2</label>
+</fieldset>
+<fieldset class="form-group">
+   <input name="name" type="radio" class="radio-blue with-gap" id="">
+    <label for="">option 3</label>
+</fieldset>
+*/
+.radio-blue{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+}
+.radio-blue:checked,.radio-blue:not(:checked){
+    position: absolute;
+    left: -9999px;
+    visibility: hidden;
+}
+.radio-blue:checked+label,.radio-blue:not(:checked)+label{
+    position: relative;
+    height: 20px;
+    -webkit-transition: .28s ease;
+    -moz-transition: .28s ease;
+    -o-transition: .28s ease;
+    -ms-transition: .28s ease;
+    transition: .28s ease;
+    padding-left: 25px;
+    display: inline-block;
+    line-height: 25px;
+    cursor: pointer;
+    font-size: 14px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+}
+.radio-blue.with-gap:checked+label:before{
+    border-radius: 50%;
+    border: 2px solid #4285F4;
+}
+.radio-blue:checked+label:before{
+    border-radius: 50%;
+    border: 2px solid transparent;
+}
+.radio-blue+label:after,.radio-blue+label:before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 4px;
+    width: 16px;
+    height: 16px;
+    z-index: 0;
+    -webkit-transition: .28s ease;
+    -moz-transition: .28s ease;
+    -o-transition: .28s ease;
+    -ms-transition: .28s ease;
+    transition: .28s ease;
+}
+.radio-blue.with-gap:checked+label:after{
+    border-radius: 50%;
+    border: 2px solid #4285F4;
+    background-color: #4285F4;
+    z-index: 0;
+    -webkit-transform: scale(.5);
+    -moz-transform: scale(.5);
+    -ms-transform: scale(.5);
+    -o-transform: scale(.5);
+    transform: scale(.5);
+}
+.radio-blue:checked+label:after{
+    border-radius: 50%;
+    border: 2px solid #4285F4;
+    background-color: #4285F4;
+    z-index: 0;
+    -webkit-transform: scale(1.02);
+    -moz-transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    -o-transform: scale(1.02);
+    transform: scale(1.02);
+}
+.radio-blue:not(:checked)+label:before{
+    border-radius: 50%;
+    border: 2px solid #5a5a5a;
+}
+.radio-blue:not(:checked)+label:after{
+    border-radius: 50%;
+    border: 2px solid #5a5a5a;
+    z-index: -1;
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0);
+}
+.radio-blue+label{
+    font-weight: 400;
+    text-transform: uppercase;
+}
+/* RADIO BUTTON MDB FIN */
+.has-success .form-control {
+    border-color: black !important;
+}
+.form-group.has-success input:focus,.input-group.has-success input:focus,.form-group.has-success select:focus,.input-group.has-success select:focus,.form-group.has-success textarea:focus,.input-group.has-success textarea:focus {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    color: black !important;
+    border-color: #b0dd9c !important;
+}
+.form-group.has-success input,.input-group.has-success input,.form-group.has-success select,.input-group.has-success select,.form-group.has-success textarea,.input-group.has-success textarea {
+    border-color: #b0dd9c !important;
+    color: black !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    background-color: #f3f7f1
+}

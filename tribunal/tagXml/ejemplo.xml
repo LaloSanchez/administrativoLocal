@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<vistas>
+<vista name="frmBitacorasView"><idBitacora name="IdBitacora" id="IdBitacora" hidden="false" tooltip="idBitacora" plecahold="idBitacora">idBitacora</idBitacora><cveAccion name="CveAccion" id="CveAccion" hidden="false" tooltip="cveAccion" plecahold="cveAccion">cveAccion</cveAccion></vista></vistas>

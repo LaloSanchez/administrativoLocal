@@ -1,0 +1,9 @@
+{"map":{  
+            "extensions":[  
+               "fug",
+               "gpx",
+               "kml",
+               "nmea",
+               "osm"
+            ],
+            "icon":"fa-map-o"}}

@@ -1,0 +1,12 @@
+{"config":{  
+            "extensions":[  
+               "cfg",
+               "conf",
+               "ini",
+               "htaccess",
+               "htpasswd",
+               "plist",
+               "sublime-settings",
+               "xpy"
+            ],
+            "icon":"fa-cogs"}}

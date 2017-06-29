@@ -1,0 +1,26 @@
+Header always set Access-Control-Allow-Origin: "*"
+Header always set Access-Control-Allow-Methods: "POST, GET, DELETE, PUT"
+Header always set Access-Control-Max-Age: "1000"
+Header always set Access-Control-Allow-Headers: "x-requested-with, Content-Type, origin, authorization, client-security-token"
+ 
+RewriteEngine on 
+AddDefaultCharset UTF8
+AddCharset UTF8 .html .js .css .php
+AddType 'text/html; charset=UTF8' .html
+
+php_value default_charset UTF8
+
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+php_flag log_errors off
+
+php_value date.timezone "America/Mexico_City"
+ 
+ RewriteCond %{REQUEST_FILENAME} !-d  
+ RewriteCond %{REQUEST_FILENAME} !-f  
+ RewriteCond %{REQUEST_FILENAME} !-l  
+ 
+ RewriteRule ^(.+)$ index.php?url=$1 [QSA,NC,L] 
+
+

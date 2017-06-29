@@ -1,0 +1,9 @@
+{"email":{  
+            "extensions":[  
+               "eml",
+               "emlx",
+               "mbox",
+               "msg",
+               "pst"
+            ],
+            "icon":"fa-envelope"}}

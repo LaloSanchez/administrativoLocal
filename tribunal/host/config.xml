@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<CONFIGURACION>
+    <URL>     
+        <BACK>
+            <HOST>http://localhost/electronico/</HOST>
+            <DESCRIPCION> Se regresa a la pantalla de bienvenida </DESCRIPCION>
+        </BACK> 
+        <LOGIN>
+            <HOST>http://localhost/electronico/</HOST>
+            <DESCRIPCION>Servidor web para gestion de usuarios </DESCRIPCION>
+        </LOGIN>
+    </URL>
+    <CODIGO>     
+        <BARRAS>
+            <HOST>http://localhost/electronico/</HOST>
+            <DESCRIPCION> Ruta del generador de codigo de barras </DESCRIPCION>
+        </BARRAS> 
+        <QR>
+            <HOST>http://localhost/electronico/</HOST>  
+            <DESCRIPCION>Ruta del generador del codigo de barras qr</DESCRIPCION>
+        </QR>
+    </CODIGO>
+    <LOGS>
+        <LOG>
+            <HOST>../../servidor/logs/</HOST> 
+            <DESCRIPCION>Ruta del lugar donde se guardaran los logs del sistema</DESCRIPCION>
+        </LOG>
+    </LOGS>
+    <EMAILS>
+        <NOTIFICACIONPENAL>
+            <HOST>../../servidor/logs/notificacion</HOST> 
+            <DESCRIPCION>Ruta del lugar donde se guardaran los logs del sistema</DESCRIPCION>
+        </NOTIFICACIONPENAL>
+    </EMAILS>
+    <WEBSERVICE>
+        <GESTION>
+            <HOST>http://gestion.pjedomex.gob.mx/gestion2/servidor/</HOST> 
+            <DESCRIPCION>La ruta de los servicios web de gestion</DESCRIPCION> 
+        </GESTION>
+        <GESTION3>
+            <HOST>http://10.22.165.155/www/gestion3/webservice/</HOST> 
+            <DESCRIPCION>La ruta de los servicios web de gestion 3</DESCRIPCION> 
+        </GESTION3>
+        <ZIMBRA>
+            <HOST>https://10.22.157.26</HOST>
+            <DESCRIPCION>Ruta de servicios zimbra</DESCRIPCION>
+        </ZIMBRA>
+    </WEBSERVICE>
+    <FOTOSPERSONAL>
+        <FOTOS>
+            <HOST>http://10.22.157.20/gestion2/</HOST> 
+            <DESCRIPCION>La ruta de los servicios web de gestion</DESCRIPCION> 
+        </FOTOS>
+    </FOTOSPERSONAL>
+    <DIGITALIZACION>
+        <MODULODIGITALIZACION>
+            <HOST>http://sigejupe2.pjedomex.gob.mx/sigejupe/vistas/digitalizacion/</HOST> 
+            <DESCRIPCION>La ruta del modulo de digitalizacion</DESCRIPCION> 
+        </MODULODIGITALIZACION>
+    </DIGITALIZACION>
+    <SUBIRARCHIVOS>
+        <MODULOSUBIRARCHIVOS>
+            <HOST>http://sigejupe2.pjedomex.gob.mx/sigejupe/fachadas/sigejupe/imagenes/ImagenesFacade.Class.php</HOST> 
+            <DESCRIPCION>La ruta del modulo de digitalizacion</DESCRIPCION> 
+        </MODULOSUBIRARCHIVOS>
+    </SUBIRARCHIVOS>
+    <VISORDOCUMENTOS>
+        <LISTARDOCUMENTOS>
+            <HOST>../../digitalizacion/index.php</HOST> 
+            <DESCRIPCION>La ruta del modulo de digitalizacion</DESCRIPCION> 
+        </LISTARDOCUMENTOS>
+    </VISORDOCUMENTOS>
+    <ENVIOCORREOS>
+        <ENVIOCORREOSAUTOMATICOS>
+            <HOST>/var/www/html/sigejupe/tribunal/correo/servidorCorreo.xml</HOST> 
+            <DESCRIPCION>La ruta de la ruta fisica donde se encuentran la plantilla para enviar correos electronico</DESCRIPCION> 
+        </ENVIOCORREOSAUTOMATICOS>
+    </ENVIOCORREOS>
+    <VISORDOCUMENTOSSIGEJUPE>
+        <LISTARDOCUMENTOS>
+            <HOST>http://sigejupe2.pjedomex.gob.mx/sigejupe/</HOST> 
+            <DESCRIPCION>Servidor sigejupe</DESCRIPCION> 
+        </LISTARDOCUMENTOS>
+    </VISORDOCUMENTOSSIGEJUPE>
+    <VISORDOCUMENTOSELECTRONICO>
+        <LISTARDOCUMENTOS>
+            <HOST>sigejupe2.pjedomex.gob.mx</HOST> 
+            <DESCRIPCION>Servidor sigejupe</DESCRIPCION> 
+        </LISTARDOCUMENTOS>
+    </VISORDOCUMENTOSELECTRONICO>
+    <DOCUMENTOSADMINISTRATIVO>
+        <DOCUMENTOS>../../imagenes/</DOCUMENTOS>
+        <FORMATOS>../../intranet/formatos/</FORMATOS>
+    </DOCUMENTOSADMINISTRATIVO>
+    <PLATILLASHTML>
+         <HOST>http://dticursos.pjedomex.gob.mx/administrativo/plantillashtml/</HOST>
+    </PLATILLASHTML>
+    <PLATILLASNOTIFICACIONES>
+         <HOST>http://dticursos.pjedomex.gob.mx/administrativo/controladores/recursosmateriales/</HOST>
+    </PLATILLASNOTIFICACIONES>
+</CONFIGURACION>

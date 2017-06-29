@@ -1,0 +1,11 @@
+{"windows":{  
+            "extensions":[  
+               "dll",
+               "exe",
+               "msi",
+               "pif",
+               "ps1",
+               "scr",
+               "sys"
+            ],
+            "icon":"fa-windows"}}

@@ -1,0 +1,158 @@
+.ScrollExpAut {
+	background: none;
+	border:1px solid #003300;
+	width:400px;
+	height:60px;
+	overflow: auto;
+}
+.ScrollExp {
+	background: none;
+	width: 100%;
+	height: 105px;
+	overflow: auto;
+}
+.ScrollActDem {
+	background: none;
+	width: 100%;
+	height: 30px;
+	overflow: auto;
+}
+.ScrollListaSec {
+	background: none;
+	width: 190px;
+	height: 200px;
+	overflow: auto;
+	/*text-align:left;*/
+	white-space: nowrap;
+}
+.NavFlotante {
+	float: right;
+	padding: 5px;
+	position: relative;
+}
+#divOpac {
+	z-index: 0;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #CCCCCC;
+	filter: alpha(opacity=80);
+	opacity: 0.8;
+}
+div#divOpac iframe{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #CCCCCC;
+	filter: alpha(opacity=30);
+	opacity: 0.3;
+}
+#divInfoUsu {
+	background-color: #CCCCCC; 
+        width: 350px;
+        height: 140px;
+}
+#divForma,#divAviso {
+	position: absolute;
+	/*top: 50%;
+	left: 50%;*/
+	z-index: 100;
+}
+.dragme{
+	position: relative;
+}
+.TitLstDocs {
+	background-color: #003300;
+	color: #FFFFFF;
+}
+.OpcLstDocs {
+	background-color: #FFFFFF;
+	color:#000000;
+}
+td.tdDatosExp{
+    border: 1px solid #999999;
+}
+div#divLstExpAut{
+    text-align: center; 
+}
+div#divLstExpAut img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*td.tdMenuSup{
+    background: url('../img/imgMenuExpVirtual/imgFondoMenu.png') repeat-x;
+}*/
+
+ul#ulMenuSup {
+    list-style-type: none;
+    background: url('imgMenuVisor/imgFondoMenu.png') repeat-x;
+    height: 36px;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul#ulMenuSup li {
+    float: left;
+    vertical-align: middle;
+    padding: 0px 5px;
+    height: 36px;
+    /*border: 1px solid #FF0000*/
+}
+
+ul#ulMenuSup li img.imgBtnMenu{
+    cursor: pointer;
+    border: 0px;
+    margin-top: 2px;
+}
+
+ul#ulMenuSup li.opcMenuSup{
+    display: none;
+}
+
+div.divFojaImgDoc{
+    width: 800px;
+    height: 500px;
+    border: 1px solid #999999;
+    margin-top: 15px;
+    padding: 10px 15px;
+    overflow: auto;
+}
+div.divHojaDoc{
+    text-align: justify;
+    color: #000000;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    text-decoration: none;
+}
+
+div.divHojaGif{
+    
+}
+
+img.imgFojaImg{
+    position: relative;
+    left: 0px;
+    top: 0px;
+    border: 1px solid #000000;
+    cursor: move; 
+}
+
+select.cmbDatos{
+    width: 200px;
+}
+
+div#divFormCambiaPass input.password { margin-bottom:0px; width:95%; padding: .4em; }
+div#divFormCambiaPass { width: 400px; margin: 0px; padding: 0px; }
+div#divFormCambiaPass table { margin: 1em 0; border-collapse: collapse; width: 100%; }
+div#divFormCambiaPass table td, div#divFormCambiaPass table th { border: 1px solid #eee; padding: .6em 10px; text-align: left; }
+div#divFormCambiaPass label, input { display:block; }
+div#divFormCambiaPass .validateTips { border: 1px solid transparent; padding: 0 0.3em 0.3em 0.3em; }
+.ui-dialog-buttonset  { font-size: 12px;}

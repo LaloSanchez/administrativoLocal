@@ -1,0 +1,296 @@
+04/junio
+-soporte llamadas capacitacion
+-integrar visor de imagenes en centros de digitalizacion
+
+05-junio 
+-soporte llamadas capacitacion
+-preparar maquinas y sistema de pruebas para BPO consulting
+
+08-junio 
+-soporte llamadas capacitacion
+-preparar maquinas y sistema de pruebas para BPO consulting
+-Fianzas - cancelacion oficios  - aclaraciones de oficios
+
+09-junio 
+-soporte llamadas capacitacion
+-preparar maquinas y sistema de pruebas para BPO consulting
+-Fianzas - cancelacion oficios  - aclaraciones de oficios
+
+10-junio 
+-soporte llamadas capacitacion
+-preparar sistema de pruebas para BPO consulting
+-Fianzas - cancelacion oficios  - aclaraciones de oficios
+
+11-junio 
+-soporte llamadas capacitacion
+-Fianzas - oficios aclaratorios
+-modulo Digitalizacion en gestion
+
+12-junio 
+-soporte llamadas capacitacion
+-Fianzas - oficios aclaratorios
+
+15-junio 
+-soporte llamadas capacitacion
+-Fianzas - oficios aclaratorios
+
+16-junio 
+-soporte llamadas capacitacion
+-electronico modulo de digitalizacion audiencias
+
+17-junio 
+-soporte llamadas capacitacion
+-soporte fianzas
+-reunion con Lic Valente de almacen
+-visita a Almacen san lorenzo para capacitar al personal de como accesar al sistema de almacen
+
+18 Junio
+-Soporte llamadas de implementación y capacitación Expediente Electrónico
+-Fianzas - reporte de cheques pendientes  a entregar por parte del juzgado
+
+
+19 Junio
+-Soporte llamadas de implementación y capacitación Expediente Electrónico
+-Fianzas - reporte de cheques pendientes  a entregar por parte del juzgado
+-Fianzas - Eliminación manual de encuestas
+-validación para no modificar imágenes de iniciales (oficialía de partes común) en los juzgados
+
+22 Junio
+-Soporte llamadas de implementación y capacitación Expediente Electrónico
+-Fianzas - Acuses Aclaratorios
+
+
+23 Junio
+-Soporte llamadas de implementación y capacitación Expediente Electrónico
+-modificaciones formularios de Expediente Electrónico
+
+24 Junio
+-Soporte llamadas de implementación y capacitación Expediente Electrónico
+-Fianzas - Acuses Aclaratorios
+
+25 Junio
+-Soporte llamadas de implementación y capacitación Expediente Electrónico
+-Fianzas - Acuses Aclaratorios
+-Fianzas - Acuses cheques cancelados
+
+26 Junio
+-Soporte llamadas de implementación y capacitación Expediente Electrónico
+-Fianzas - Acuses Aclaratorios
+-Fianzas - Acuses cheques cancelados
+
+29 Junio
+-Aplicación de exámenes teórico y práctico a empresa LTS
+-soporte sigejupe - al registrar respuesta de juez en cateo
+
+30 Junio
+-Aplicación de exámenes teórico y práctico a servicio social
+-Primer día de pruebas e implementación de BPO CONSULTING
+
+01 Julio
+-Aplicación de exámenes teórico y práctico a servicio social
+-Mantenimiento Fianzas - Impresión de acuses de cheques pendientes
+
+02 Julio
+-Revisión y modificación modulo oficios aclaratorios-cheques cancelados
+-Junta con Contadora Violeta
+
+03 Julio
+-entrega modulo oficios aclaratorios-cheques cancelados
+-Junta Bpo Consulting instalación módulos de digitalización en el servidor
+
+06 Julio
+-Agregar módulo de digitalización Visual Basic  en módulos de Demandas y Exhortos
+-análisis Fondos Propios - Fianzas
+
+07 Julio
+-Modificación a visor de documentos para que los juzgados no modifiquen imágenes digitalizadas en oficialías 
+
+08 Julio
+-Modificación módulo de Amparos Expediente electrónico
+
+09 Julio
+-Modificación módulo de Amparos Expediente electrónico
+
+27 Julio
+-capacitación Erik (practicante)
+-mantenimiento Sistema Electronico(llamadas)
+
+28 Julio
+-Dia a cuenta de vacaciones
+
+29 Julio 
+-Soporte expediente electronico (Tocas)
+-fondos propios - fianzas
+-Junta con Contadora Violeta 
+
+30 Julio
+-Soporte expediente electronico
+-Ultimo día de pruebas e implementación de BPO CONSULTING
+-fondos propios - fianzas
+
+31 Julio 
+-Soporte expediente electronico
+-fondos propios - fianzas
+
+03 Agosto
+-Soporte expediente electronico
+-MODIFICACIÓN DE PROMOCIONES PARA SELECCIONAR JUZGADOS
+-fondos propios - fianzas
+
+03 Agosto
+-Soporte expediente electronico
+-MODIFICACIÓN DE PROMOCIONES PARA SELECCIONAR JUZGADOS(electronico)
+-fondos propios - fianzas
+
+04 Agosto
+-Soporte expediente electronico
+-modificación Audicencias para seleccionar juzgados(electronico)
+
+05 Agosto
+-Soporte expediente electronico
+
+06 Agosto
+-Soporte expediente electronico
+-mantenimiento Sistema Electronico
+
+07 Agosto
+-Soporte expediente electronico
+-mantenimiento Sistema Electronico
+-fondos propios - fianzas
+
+10 Agosto
+-Problemas con cateos: quitar caracteres especiales, y validar campos vacios
+-pagos con tarjetas de credito(comunicacion con el banco para aclarar dudas en las pruebas) - fianzas
+
+11 Agosto
+-Junta con Contadora Violeta para ver avances de fondos propios y complementar requerimientos
+-pagos con tarjetas de credito - fianzas
+-fondos propios - fianzas
+
+12 Agosto
+-Modificacion de digitalizacion y visior de imagenes para Oficos Generales (Electronico)
+-Soporte expediente electronico
+
+13 Agosto
+-Modificacion de digitalizacion y visior de imagenes para Oficos Generales (Electronico)
+-Soporte expediente electronico
+
+14 Agosto:
+-Soporte expediente electronico
+-fondos propios - fianzas
+-Cambio de Lugar
+
+17 Agosto:
+-Aplicacion de Examen a Empresa
+
+18 Agosto:
+-Aplicacion de Examen a Empresa
+-pruebas SIGEJUPE: triara
+
+19 Agosto:
+-Aplicacion de Examen a Empresa
+
+20 Agosto:
+-Falta por incapacidad medica
+
+21 Agosto:
+-pruebas SIGEJUPE: triara
+-Soporte expediente electronico
+-mantenimiento Sistema Electronico
+-Pagos con trajeta - fianzas
+
+24 Agosto:
+-fondos propios - fianzas
+-Soporte expediente electronico
+
+
+25 Agosto:
+-Junta con Contadora Violeta para ver avances de fondos propios
+-fondos propios - fianzas
+-Soporte expediente electronico
+
+26 Agosto:
+-Pruebas con BPO Consulting 
+-pruebas de digitalizacion en Nicolas San Juan
+
+27 Agosto:
+-Minuta de pruebas con BPO Consulting 
+-mantenimiento Sistema Electrónico
+-reporte juicios orales por fecha de radicación (sigejupe)
+
+-28 Agosto:
+-pagos con tarjetas -fianzas
+-reporte juicios orales por fecha de radicación (sigejupe)
+-pruebas sigejupe triara
+-curso equipo de trabajo
+
+31 Agosto:
+-Fondos Propios
+-Pagos con tarjeta
+-mantenimiento Sistema Electrónico
+
+01 Septiembre
+-Pagos con tarjeta
+-mantenimiento Sistema Electrónico
+-Junta violeta y Alberto
+
+02 Septiembre
+-Pagos con tarjeta
+-mantenimiento Sistema Electrónico
+-junta con violeta/Alejandra/Bernardo - pagos con tarjeta
+
+03 Septiembre
+-Pagos con tarjeta
+-junta con violeta/Alejandra/Bernardo/Gaona - pagos con tarjeta
+
+04 Septiembre
+-Pago con tarjeta
+-fondos propios
+-modificaciones a las reglas de negocios (fianzas) 
+	*recibos provisionales
+	*recibos oficiales con provisional
+	*recibos oficiales sin provisional
+
+07 Septiembre
+-junta BPO y salida a la oficialía de partes común de Nicolás san juan para realizar pruebas 
+-modificaciones a las reglas de negocios (fianzas) 
+	*recibos provisionales
+	*recibos oficiales con provisional
+	*recibos oficiales sin provisional
+
+08 Septiembre
+-pagos con tarjeta
+-modificaciones a las reglas de negocios (fianzas) 
+	*recibos provisionales
+	*recibos oficiales con provisional
+	*recibos oficiales sin provisional
+
+09 Septiembre
+-fondos propios (se proporcionó el instructivo para obtener los dígitos de verificación de la referencia)
+-modificaciones a las reglas de negocios (fianzas) 
+	*recibos provisionales
+	*recibos oficiales con provisional
+	*recibos oficiales sin provisional
+
+10 Septiembre
+-Mantenimiento electrónico
+	*agregar bitácora al eliminar imágenes
+	*actualizar el campo idtiponumerorelacion al registrar promociones
+	*permitir mover actuaciones y cuadernos entre juzgados fusionados en el gestor de cuadernos
+
+11 Septiembre
+-pagos con tarjeta
+-fondos propios
+
+14 Septiembre
+-pagos con tarjeta
+-fondos propios
+-modificaciones a las reglas de negocios (fianzas) 
+	*recibos provisionales
+	*recibos oficiales con provisional
+	*recibos oficiales sin provisional
+
+15 Septiembre
+-Junta contadora Violeta. Revisión fondos propios: se hicieron pruebas satisfactorias de modulo y se revisó la generación de los dígitos de verificación
+-pagos con tarjeta
+-fondos propios

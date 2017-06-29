@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp codebase="file:/C:/te/scanner/dist/" href="jnlpcomponent2.jnlp" spec="1.0+">
+    <information>
+        <title>jnlpcomponent2</title>
+        <vendor>JARSIGNI1</vendor>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <jar href="lib/morena.jar" download="eager"/>
+    </resources>
+    <component-desc/>
+</jnlp>

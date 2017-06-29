@@ -1,0 +1,10 @@
+{"virtual":{  
+            "extensions":[  
+               "ova",
+               "pvm",
+               "pvs",
+               "vdi",
+               "vhd",
+               "vmdk"
+            ],
+            "icon":"fa-cube"}}

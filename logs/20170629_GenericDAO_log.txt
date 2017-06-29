@@ -1,0 +1,203 @@
+2017-06-29 14:44:47 -->SELECT 
+                tblinventarios.idInventario,
+                tblinventarios.cveClasificadorBien,
+                tblclasificadoresbienes.desClasificadorBien,
+                tblinventarios.cveEstadoBien,
+                tblestadosbienes.desEstadoBien,
+                tblinventarios.numeroSerie,
+                tblresguardos.cveAdscripcion,
+                tblresguardos.numEmpleadoResguardo,
+                tblresguardos.fechaAsigancion
+            ,
+                tblcbm.idCbm,
+                tblcbm.idCogBien,                                
+                tblcbm.denominacion,
+                tblinventarios.codigoPropio,
+                tblcbm.marca,
+                tblcbm.modelo
+             FROM  
+                tblinventarios tblinventarios 
+                INNER JOIN tblestadosbienes tblestadosbienes 
+                ON (tblinventarios.cveEstadoBien = tblestadosbienes.cveEstadoBien AND tblestadosbienes.activo = 'S')
+                INNER JOIN tblclasificadoresbienes tblclasificadoresbienes 
+                ON (tblinventarios.cveClasificadorBien = tblclasificadoresbienes.cveClasificadorBien AND tblclasificadoresbienes.activo = 'S')
+                LEFT JOIN tblresguardos tblresguardos 
+                ON (tblinventarios.idInventario = tblresguardos.idInventario AND tblresguardos.activo = 'S')
+            
+                INNER JOIN tblcbm tblcbm
+                ON tblcbm.idCbm = tblinventarios.idReferencia 
+              WHERE             
+            (tblinventarios.activo = 'S')
+        
+            AND
+            (tblresguardos.cveAdscripcion in )
+        
+            AND
+            (tblclasificadoresbienes.cveClasificadorBien = 1)
+        
+                AND
+               tblcbm.activo = 'S'
+              ORDER BY 1 asc   LIMIT 0,10
+2017-06-29 14:44:47 -->SELECT count(*) as Total FROM  
+                tblinventarios tblinventarios 
+                INNER JOIN tblestadosbienes tblestadosbienes 
+                ON (tblinventarios.cveEstadoBien = tblestadosbienes.cveEstadoBien AND tblestadosbienes.activo = 'S')
+                INNER JOIN tblclasificadoresbienes tblclasificadoresbienes 
+                ON (tblinventarios.cveClasificadorBien = tblclasificadoresbienes.cveClasificadorBien AND tblclasificadoresbienes.activo = 'S')
+                LEFT JOIN tblresguardos tblresguardos 
+                ON (tblinventarios.idInventario = tblresguardos.idInventario AND tblresguardos.activo = 'S')
+            
+                INNER JOIN tblcbm tblcbm
+                ON tblcbm.idCbm = tblinventarios.idReferencia 
+              WHERE             
+            (tblinventarios.activo = 'S')
+        
+            AND
+            (tblresguardos.cveAdscripcion in )
+        
+            AND
+            (tblclasificadoresbienes.cveClasificadorBien = 1)
+        
+                AND
+               tblcbm.activo = 'S'
+             
+2017-06-29 14:52:58 -->SELECT 
+                tblinventarios.idInventario,
+                tblinventarios.cveClasificadorBien,
+                tblclasificadoresbienes.desClasificadorBien,
+                tblinventarios.cveEstadoBien,
+                tblestadosbienes.desEstadoBien,
+                tblinventarios.numeroSerie,
+                tblresguardos.cveAdscripcion,
+                tblresguardos.numEmpleadoResguardo,
+                tblresguardos.fechaAsigancion
+            ,
+                tblcbm.idCbm,
+                tblcbm.idCogBien,                                
+                tblcbm.denominacion,
+                tblinventarios.codigoPropio,
+                tblcbm.marca,
+                tblcbm.modelo
+             FROM  
+                tblinventarios tblinventarios 
+                INNER JOIN tblestadosbienes tblestadosbienes 
+                ON (tblinventarios.cveEstadoBien = tblestadosbienes.cveEstadoBien AND tblestadosbienes.activo = 'S')
+                INNER JOIN tblclasificadoresbienes tblclasificadoresbienes 
+                ON (tblinventarios.cveClasificadorBien = tblclasificadoresbienes.cveClasificadorBien AND tblclasificadoresbienes.activo = 'S')
+                LEFT JOIN tblresguardos tblresguardos 
+                ON (tblinventarios.idInventario = tblresguardos.idInventario AND tblresguardos.activo = 'S')
+            
+                INNER JOIN tblcbm tblcbm
+                ON tblcbm.idCbm = tblinventarios.idReferencia 
+              WHERE             
+            (tblinventarios.activo = 'S')
+        
+            AND
+            (tblresguardos.cveAdscripcion in (885,10234,10232,889,10766))
+        
+            AND
+            (tblclasificadoresbienes.cveClasificadorBien = 1)
+        
+                AND
+               tblcbm.activo = 'S'
+              ORDER BY 1 asc   LIMIT 0,10
+2017-06-29 14:53:02 -->SELECT count(*) as Total FROM  
+                tblinventarios tblinventarios 
+                INNER JOIN tblestadosbienes tblestadosbienes 
+                ON (tblinventarios.cveEstadoBien = tblestadosbienes.cveEstadoBien AND tblestadosbienes.activo = 'S')
+                INNER JOIN tblclasificadoresbienes tblclasificadoresbienes 
+                ON (tblinventarios.cveClasificadorBien = tblclasificadoresbienes.cveClasificadorBien AND tblclasificadoresbienes.activo = 'S')
+                LEFT JOIN tblresguardos tblresguardos 
+                ON (tblinventarios.idInventario = tblresguardos.idInventario AND tblresguardos.activo = 'S')
+            
+                INNER JOIN tblcbm tblcbm
+                ON tblcbm.idCbm = tblinventarios.idReferencia 
+              WHERE             
+            (tblinventarios.activo = 'S')
+        
+            AND
+            (tblresguardos.cveAdscripcion in (885,10234,10232,889,10766))
+        
+            AND
+            (tblclasificadoresbienes.cveClasificadorBien = 1)
+        
+                AND
+               tblcbm.activo = 'S'
+             
+2017-06-29 14:53:24 -->SELECT 
+                tblclasificadoresbienes.*
+             FROM  
+                tblclasificadoresbienes tblclasificadoresbienes
+              WHERE 
+                tblclasificadoresbienes.activo = 'S'                
+             
+2017-06-29 14:53:25 -->SELECT 
+                tblestadosbienes.*
+             FROM  
+                tblestadosbienes tblestadosbienes
+              WHERE 
+                tblestadosbienes.activo = 'S'                
+             
+2017-06-29 14:53:29 -->SELECT 
+                tblinventarios.idInventario,
+                tblinventarios.cveClasificadorBien,
+                tblclasificadoresbienes.desClasificadorBien,
+                tblinventarios.cveEstadoBien,
+                tblestadosbienes.desEstadoBien,
+                tblinventarios.numeroSerie,
+                tblresguardos.cveAdscripcion,
+                tblresguardos.numEmpleadoResguardo,
+                tblresguardos.fechaAsigancion
+            ,
+                tblcbm.idCbm,
+                tblcbm.idCogBien,                                
+                tblcbm.denominacion,
+                tblinventarios.codigoPropio,
+                tblcbm.marca,
+                tblcbm.modelo
+             FROM  
+                tblinventarios tblinventarios 
+                INNER JOIN tblestadosbienes tblestadosbienes 
+                ON (tblinventarios.cveEstadoBien = tblestadosbienes.cveEstadoBien AND tblestadosbienes.activo = 'S')
+                INNER JOIN tblclasificadoresbienes tblclasificadoresbienes 
+                ON (tblinventarios.cveClasificadorBien = tblclasificadoresbienes.cveClasificadorBien AND tblclasificadoresbienes.activo = 'S')
+                LEFT JOIN tblresguardos tblresguardos 
+                ON (tblinventarios.idInventario = tblresguardos.idInventario AND tblresguardos.activo = 'S')
+            
+                INNER JOIN tblcbm tblcbm
+                ON tblcbm.idCbm = tblinventarios.idReferencia 
+              WHERE             
+            (tblinventarios.activo = 'S')
+        
+            AND
+            (tblresguardos.cveAdscripcion in (885,10234,10232,889,10766))
+        
+            AND
+            (tblclasificadoresbienes.cveClasificadorBien = 1)
+        
+                AND
+               tblcbm.activo = 'S'
+              ORDER BY 1 asc   LIMIT 0,10
+2017-06-29 14:53:33 -->SELECT count(*) as Total FROM  
+                tblinventarios tblinventarios 
+                INNER JOIN tblestadosbienes tblestadosbienes 
+                ON (tblinventarios.cveEstadoBien = tblestadosbienes.cveEstadoBien AND tblestadosbienes.activo = 'S')
+                INNER JOIN tblclasificadoresbienes tblclasificadoresbienes 
+                ON (tblinventarios.cveClasificadorBien = tblclasificadoresbienes.cveClasificadorBien AND tblclasificadoresbienes.activo = 'S')
+                LEFT JOIN tblresguardos tblresguardos 
+                ON (tblinventarios.idInventario = tblresguardos.idInventario AND tblresguardos.activo = 'S')
+            
+                INNER JOIN tblcbm tblcbm
+                ON tblcbm.idCbm = tblinventarios.idReferencia 
+              WHERE             
+            (tblinventarios.activo = 'S')
+        
+            AND
+            (tblresguardos.cveAdscripcion in (885,10234,10232,889,10766))
+        
+            AND
+            (tblclasificadoresbienes.cveClasificadorBien = 1)
+        
+                AND
+               tblcbm.activo = 'S'
+             

@@ -1,0 +1,43 @@
+<HTML>
+    <HEAD>
+        <TITLE> Lanzar Boton [SIGEJUPEV2] </TITLE>
+    </HEAD>
+    <script>
+
+        function Digitaliza()
+        {
+            var strl;
+
+            strl = "0-125-NOTIFICACION-JUZGADO DE CONTROL DE TOLUCA-1-22-80-2016";
+            strl += "-http://10.22.165.204/sigejupev2/fachadas/sigejupe/imagenes/ImagenesFacade.Class.php";
+            strl += "-http://10.22.165.25/digitalizacion/";
+
+            LanzaWS.Lanzar(strl);
+        }
+    </script>
+    <!-
+    idCarpetaJudicial=0
+    idActuacion=125
+    Descripcion=NOTIFICACION TRADICIONAL
+    descJuzgado=JUZGADO DE CONTROL DE TOLUCA
+    Numero=1
+    cveDocumento=22
+    idUsuario=80
+    anio=2016
+    URLupload=http://10.22.157.48/sigejupe/fachadas/sigejupe/imagenes/ImagenesFacade.Class.php
+    URLcodebase=http://10.22.165.166/sigejupev2/vistas/digitalizacion/
+    ->
+    <BODY>
+        <object id="LanzaWS" type="application/x-java-applet" height="0" width="0">
+            <param name="code" value="LanzaWS" />
+            <param name="archive" value="botonJWS.jar" />
+        </object>  
+    </BODY>
+    <input type="button" onClick="javascript:Digitaliza();" value="Digitalizar">
+</HTML>
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+*/30 * * * * php /var/www/html/sigejupe/task/email/cateos/Email.Class.php
+*/30 * * * * php /var/www/html/sigejupe/task/email/ordenes/Email.Class.php
+*/10 * * * * php /var/www/html/sigejupe/task/llamadas/cateos/Llamadas.Class.php
+*/10 * * * * php /var/www/html/sigejupe/task/llamadas/ordenes/Llamadas.Class.php

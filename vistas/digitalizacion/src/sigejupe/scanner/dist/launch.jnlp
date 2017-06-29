@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/digitalizacion_src/sigejupe/scanner/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>scanner</title>
+        <vendor>SFB</vendor>
+        <homepage href=""/>
+        <description>scanner</description>
+        <description kind="short">scanner</description>
+    </information>
+    <update check="always"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.7+"/>
+        <jar href="scanner.jar" main="true"/>
+    <extension href="jnlpcomponent1.jnlp"/>
+<extension href="jnlpcomponent2.jnlp"/>
+</resources>
+    <application-desc main-class="digitalizacion.Digitalizacion">
+    </application-desc>
+</jnlp>

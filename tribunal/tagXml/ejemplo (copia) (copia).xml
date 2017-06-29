@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<vistas>
+    <vista name="frmAccionesView">
+        <cveAccion name="txtCveAccion" id="txtCveAccion" hidden="false" tooltip="Clave del catalogo" plecahold="Clave del catalogo">Clave Accion</cveAccion> 
+        <desAccion name="txtCveAccion" id="txtCveAccion" hidden="false" tooltip="Clave del catalogo" plecahold="Clave del catalogo">Descripcion</desAccion> 
+        <activo name="txtCveAccion" id="txtCveAccion" hidden="false" tooltip="Clave del catalogo" plecahold="Clave del catalogo">Activo</activo> 
+    </vista>
+</vistas>

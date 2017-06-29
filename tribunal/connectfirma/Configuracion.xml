@@ -1,0 +1,14 @@
+<Datos>
+    <DATOSFIRMA nombre="general">
+        <!--#URL / CREDENCIALES DEL SERVIDOR DE LA FIRMA-->
+        <url>http://187.191.69.21/WSCommerceFiel/WebService.asmx?wsdl</url> 
+        <usuario>userws</usuario>
+        <clave>BU47MIcINw6gKdwuvRZGxJjVnXIDyeGkTPBITfmOWbo=</clave>            
+        <entidad>pjem</entidad>
+        <!--#RUTA O IP DE COMO VA A VER EL SERVER DE LA FIRMA AL SERVER DE LA APLICACION-->
+        <urlAplicacion>http://dticursos.pjedomex.gob.mx/administrativo/</urlAplicacion>
+    </DATOSFIRMA>
+    <DATOSFIRMA nombre="upload">
+        <url>http://187.191.69.21/WSCommerceAux/WSAux.asmx?WSDL</url>
+    </DATOSFIRMA>
+</Datos>

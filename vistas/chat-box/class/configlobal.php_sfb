@@ -1,0 +1,21 @@
+<?php
+
+//$tokenchat=$_GET['chatid'];
+
+//session_id($tokenchat);
+session_start($GLOBALS['chatno']);
+
+define('TOKEN',$_SESSION['chatid']);
+define('USERNAME',$_SESSION['idname']);
+define('UPLOAD_DIR',$_SERVER['DOCUMENT_ROOT']."/sigejupev2/vistas/chat-box/uploads/");
+define('MAXFILESIZE',10000000);
+define('DB_USERNAME',       'root');
+define('DB_PASSWORD',       's3cr3t0');
+define('DB_HOST',           'localhost');
+define('DB_NAME',           'htsj_sigejupe');
+define('CHAT_HISTORY',      '150');
+define('CHAT_ONLINE_RANGE', '1');
+define('ADMIN_USERNAME_PREFIX', 'super_');
+
+//define('TOKEN','bc891d8f242a2a4246d1a953c1aeea18');
+?>

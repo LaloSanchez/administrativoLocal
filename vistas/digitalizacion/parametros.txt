@@ -1,0 +1,19 @@
+Id-TipoNum-NumEXp-AniExp-DesJuzgado
+
+===========================================
+idCarpetaJudicial 
+idActuacion
+idAudiencia
+TipoNum
+Numero
+Anio
+descJuzgado
+
+=============================================
+  @$param["idCarpetaJudicial"] = $_POST['idCarpetaJudicial'];
+    
+  @$param["idActuacion"] = $_POST['idActuacion'];
+   
+  @$param["idAudiencia"] = $_POST['idAudiencia'];
+   
+  @$param["archivo"] = $_FILES['archivo'];

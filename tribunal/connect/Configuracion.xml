@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-9"?>
+<provedores>
+    <MYSQL>
+        <ADMINISTRATIVO>
+            <user>root</user>
+            <password></password>
+            <host>localhost</host>
+            <db>htsj_administrativo_local</db>
+            <port>3306</port>
+            <domain>.</domain>
+            <descipcion>
+                Configuracion del sistema para conexion de la base de datos de convocatorias
+            </descipcion>
+        </ADMINISTRATIVO>
+    </MYSQL>
+</provedores>

@@ -1,0 +1,2187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Aa",
+				"Aah2"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"Generic",
+				"GenericDAO〔class〕"
+			],
+			[
+				"val",
+				"$value2〔variable〕"
+			],
+			[
+				"text",
+				"text-align: 〔property〕"
+			],
+			[
+				"json",
+				"jsonDecode"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"juzgados",
+				"JuzgadosCliente"
+			],
+			[
+				"idC",
+				"idCbm"
+			],
+			[
+				"tblc",
+				"tblcbm"
+			],
+			[
+				"Ex",
+				"$Existencia〔variable〕"
+			],
+			[
+				"In",
+				"$Invenarios〔variable〕"
+			],
+			[
+				"regi",
+				"registros"
+			],
+			[
+				"array",
+				"arrayStringFormula〔variable〕"
+			],
+			[
+				"Entra",
+				"$Entrada〔variable〕"
+			],
+			[
+				"extras",
+				"$extrasPOST〔variable〕"
+			],
+			[
+				"btnR",
+				"btnRegresar2"
+			],
+			[
+				"idCog",
+				"idCogBien"
+			],
+			[
+				"Limpi",
+				"LimpiarCbm"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"div",
+				"divCbm"
+			],
+			[
+				"tbl",
+				"tblcog"
+			],
+			[
+				"tblcog",
+				"tblcogbienes"
+			],
+			[
+				"cveAds",
+				"cveAdscripcion"
+			],
+			[
+				"cveAdsc",
+				"cveAdscripcionDestino"
+			],
+			[
+				"tblsalid",
+				"tblsalidasdetalle"
+			],
+			[
+				"idCo",
+				"idCogBien"
+			],
+			[
+				"displ",
+				"display:none"
+			],
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"prec",
+				"precioActual"
+			],
+			[
+				"change",
+				"changeDivForm"
+			],
+			[
+				"activo",
+				"activo='S"
+			],
+			[
+				"lista",
+				"listaBienPadre〔variable〕"
+			],
+			[
+				"idInventa",
+				"idInventario"
+			],
+			[
+				"rece",
+				"$recepciones〔variable〕"
+			],
+			[
+				"chosen",
+				"chosen:updated"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"so",
+				"sounds"
+			],
+			[
+				"year",
+				"yearI"
+			],
+			[
+				"diaAn",
+				"diaAnio"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"exist",
+				"array_key_exists"
+			],
+			[
+				"asp",
+				"aspiranteAsp"
+			],
+			[
+				"id",
+				"idAspirante"
+			],
+			[
+				"num",
+				"numCuenta"
+			],
+			[
+				"numAs",
+				"numAspirante"
+			],
+			[
+				"fec",
+				"fechaFinal"
+			],
+			[
+				"fecha",
+				"fechaFinal"
+			],
+			[
+				"fech",
+				"fechaFinalD"
+			],
+			[
+				"fechaF",
+				"fechaFinalD"
+			],
+			[
+				"fechaIn",
+				"fechaInicialD"
+			],
+			[
+				"fe",
+				"fechaI2"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"get",
+				"getPosition"
+			],
+			[
+				"mes",
+				"mesVal"
+			],
+			[
+				"cl",
+				"cliente"
+			],
+			[
+				"sa",
+				"statusIO3"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"fin",
+				"fin-borrar"
+			],
+			[
+				"inici",
+				"inicio-borrar"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"seman",
+				"semana1"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"id_datos",
+				"id_datos_personales"
+			],
+			[
+				"quer",
+				"query2"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vistas/inicio.php",
+			"settings":
+			{
+				"buffer_size": 48100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 866,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controladores/migracion/MigracionController.Class.php",
+			"settings":
+			{
+				"buffer_size": 27730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "modelos/dao/GenericDAO.Class.php",
+			"settings":
+			{
+				"buffer_size": 42217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webservice/cliente/migracionAdministrativo/MigracionAdministrativo.php",
+			"settings":
+			{
+				"buffer_size": 1036,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/XAMPP/xamppfiles/htdocs/administrativo/logs/20170524_AdministrativoLocal_log.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fachadas/migracion/MigracionFacade.Class.php",
+			"settings":
+			{
+				"buffer_size": 1692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vistas/vistas/migracion/frmMigracionView.php",
+			"settings":
+			{
+				"buffer_size": 24054,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tribunal/connect/Configuracion.xml",
+			"settings":
+			{
+				"buffer_size": 498,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: HTML"
+			],
+			[
+				"alignmen",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"aligment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brac",
+				"Bracketeer: Insert curly brackets"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKAGE IN",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"codeint",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/administrativolocal/aplicacion/configuracion.php",
+		"/Volumes/administrativolocal/tribunal/connect/Proveedor.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/logs/20170524_AdministrativoLocal_log.txt",
+		"/Volumes/administrativolocal/archivos/informacionEmpleados.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/motorcp/MotorCPController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/planeacion/indicadores/IndicadoresController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/generic/GenericFachada.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/planeacion/indicadores/frmRegistroIndicadoresView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/tribunal/connect/Configuracion.xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/presupuesto/registroAnteproyecto/frmRegistroAnteproyectoView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/finanzas/pagos/PagosController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/presupuesto/techos/frmTechosView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/presupuesto/anteproyectoPresupuestal/AnteproyectoPresupuestalController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/presupuesto/anteproyectoPresupuestal/AnteproyectoPresupuestalFacade.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmEntradasView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/presupuestos/techosController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/modelos/dao/GenericDAO.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/planeacion/SeguimientoProyectosController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/almacen/EntradasController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/almacen/ExistenciasController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmCaratulasView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/planeacion/AnteproyectoProgramaticoFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/almacen/ReportesController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/almacen/ReportesFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmReporteDevolucionesView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/almacen/CaratulasController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmReporteEntradasView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/finanzas/tesoreria/frmAdminPagosView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmAdminReportes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmAdminAlmacenView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/almacen/reportes/ReportesAlmacenController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/finanzas/subirPagosFacade.Class.php",
+		"/Users/pavo/Downloads/RIGH5301297X8_B_250_20170321 (1).xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/controlpatrimonial/frmSegurosView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/personal/PersonalController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/js/funciones.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/planeacion/variables/frmRegistroVariablesView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/planeacion/variables/VariablesController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmExistenciaView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/almacen/ExistenciasFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/planeacion/indicadores/IndicadoresFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/webservice/cliente/personal/PersonalCliente.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/firmaelectronicahtml5/GeneraPdfFirmaController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/recursosmateriales/adquisiciones/PDF_ComprasMenores.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/recursosmateriales/PDF_ContratoAdjudicacionDirecta.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/controlpatrimonial/IntegracionBienesController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/almacen/EntradasFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/Imagenes/ImagenesController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/controlpatrimonial/frmIntegracionBienesView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/recursosmateriales/adquisiciones/frmComprasMenoresView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/almacen/PDF_EntradaContrarecibo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/Imagenes/PDF_Suficiencia.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/almacen/reportes/PDF_EntradaContrarecibo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/Imagenes/externos/50/189/CEA1134.pdf",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/archivos/juzgados20160809.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/archivos/juzgados20170509.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/contratos/ContratosController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/presupuesto/registroAnteproyecto/PDF_RegistroAnteproyecto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/depreciacion/depreciacionController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/depreciacion/depreciacionFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/finanzas/contabilidad/frmDepreciacionBienesView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/controlpatrimonial/IntegracionBienesFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/contadores/ContadoresController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/tribunal/json/JsonDecod.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/recursosmateriales/adquisiciones/frmAdjudicacionDirectaView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/areas/frmOficiosView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/suficienciasPresupuestales/suficienciasPresupuestalesController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/archivos/adscripciones20170116.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/webservice/cliente/edificios/EdificiosCliente.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/webservice/cliente/juzgados/JuzgadoCliente.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/finanzas/pagos/frmSolicitudesPagoView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/gestion/login/LoginFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/webservice/cliente/login/LoginCliente.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/archivos/adscripciones20170504.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/cuadrocomparativo/CuadroComparativoController.Class.php",
+		"/Volumes/electronicoResolucionesSVN/webservice/servidor/oficialia/OficialiasServer.php",
+		"/Volumes/electronicoResolucionesSVN/controller/contadores/ContadoresController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmReporteSalidasView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/almacen/reportes/ReportesAlmacenFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/finanzas/estadosfinancieros/EgresosClaseAdministrativaController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/almacen/CaratulasFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/presupuestos/techosFachada.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/proyecto.sublime-workspace",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/finanzas/pagos/PagosFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/clasificadores/cbm/frmCbmView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/clasificadores/CbmFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/chat/js/functions.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/archivos/juzgados20170427.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/generic/GenericController.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/finanzas/estadosfinancieros/PDF_ReporteTipoGasto.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/reportes/PDF_ReporteSalidas.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/finanzas/estadosfinancieros/frmEgresosTipoGastoView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/archivos/7151.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmSalidasView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/almacen/frmReporteSalidas.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/finanzas/reportes/frmEdoAnaliticoEgresosView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/fachadas/almacen/SalidasFacade.Class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/almacen/SalidasController.Class.php",
+		"/Users/pavo/Downloads/SECFD_20170307_073831 (2).xml",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/planeacion/indicadores/frmIndicadoresEstrategivosView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/planeacion/indicadores/frmAdminIndicadoresView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/vistas/vistas/presupuesto/techos/frmTechosView_Original.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/tribunal/json/JsonEncod.Class.php",
+		"/Users/pavo/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/pavo/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/pavo/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/pavo/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/pavo/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/pavo/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Applications/XAMPP/xamppfiles/htdocs/administrativo/controladores/controlpatrimonial/ConsultaInventarioController.Class.php",
+		"/Users/pavo/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Users/pavo/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/pavo/Desktop/alarmas.py",
+		"/Applications/XAMPP/xamppfiles/logs/error_log",
+		"/Applications/XAMPP/xamppfiles/logs/php_error_log",
+		"/private/var/folders/11/l4zlrl810xv55_75xt1shlzr0000gn/T/fz3temp-1/prueba.py",
+		"/Applications/XAMPP/xamppfiles/htdocs/sigejupe/desarrollo/aplicacion/configuracion.php",
+		"/Users/pavo/Desktop/gestion2/MenuNivel/inicio.php",
+		"/Users/pavo/Desktop/gestion2/indicadores/vista/habitantes/frmHabitantes.php",
+		"/Users/pavo/Desktop/gestion2/indicadores/vista/habitantes/frmHabitantes.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Prueba/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebaPJ/fachadas/funciones.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/pruebaPJ/fachadas/fpdf.php",
+		"/Users/pavo/Desktop/porcentajePie.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/sigejupev2/desarrollo/generarExcel.php",
+		"/Users/pavo/Documents/proyectos rasp/Proyecto 1 Sensores/sistema/funciones/generarExcel.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tabla.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var_",
+			"estat",
+			"tiposb",
+			"unida",
+			"var_",
+			"log",
+			"var_",
+			"}\n",
+			"Aah",
+			"migracion",
+			"generic",
+			"Entrada",
+			"camposEntrada",
+			"idPolizas",
+			"aprobarPresupuestoFinanzas",
+			"poliza",
+			"cargarArticuloEditar",
+			"validateDate",
+			"datatable",
+			"pdf",
+			"changeDivForm",
+			"excel",
+			"cveAdscripcion",
+			"totalReg",
+			"pdf",
+			"dblcl",
+			"cveSubGrupomueble",
+			"tablaPeps",
+			"tablaGeneric",
+			"cveAdscripcion",
+			"consultar",
+			"tagsMysqlSusses",
+			"inner",
+			"cveUnidadMedida",
+			"variablesTbody",
+			"1000",
+			"descripci",
+			"consultarAnteproyectos",
+			"tablaAnteproyecto",
+			"guardarAnteproyectoOriginal",
+			"guardaranteproyecto",
+			"mostrarMisPartidas",
+			"CARGARCAP",
+			"DBLCL",
+			"copiarh",
+			"guardarAnteproyecto",
+			"validarGuardar(",
+			"validarGuardar(29)",
+			"formartabla",
+			"cuadro",
+			"cargaFormulario",
+			"\">\n",
+			"consultarDevolucionesRegion",
+			"devoluciones",
+			"devoluciuones",
+			"dev",
+			"devolucio",
+			"cargaFormulario",
+			"divGeneral",
+			"active",
+			"comprobante",
+			"comproba",
+			"idSolicitudPago",
+			"idSolic\nidSolic",
+			"comprobante",
+			"active",
+			"class=\"active",
+			"cargaFormulario",
+			"limpiar(",
+			"recepciones",
+			"CVEESTATUS = ",
+			"datatabl",
+			"articulos",
+			"tabla3",
+			"articulosTbody",
+			"formartablaart",
+			"articulost",
+			"articulosTbody",
+			"unidadContainer",
+			"articulosTbody",
+			"agregarar",
+			"undad",
+			"adscripcionesTbody",
+			"var tabla3",
+			"if ($.fn.dataTable.isDataTable('#tablaCaratulas')) {",
+			"if ($.fn.dataTable.isDataTable('#tablaCaratulas')) {}else{",
+			"if ($.fn.dataTable.isDataTable('#tabla')) {}else{",
+			"$(\"#articulosTbody\").html(formarTablaArticulos())",
+			"$.ajax",
+			"object",
+			"tblanteproyectospartidas",
+			"tblantepro",
+			"idaccionp",
+			"tblanteproyect",
+			"anteproyect",
+			"cantidadAnual",
+			"metaAnualVar",
+			"ponderacionTrim3",
+			"cantidadAnual",
+			"metaAnualVar",
+			"consultaracc",
+			"cveOrganigrama",
+			"variables",
+			"consultarvariables",
+			"idaccionpro",
+			"camposProyectoNuevo",
+			"copiarAccionesProgramaticas",
+			"idAccionProyectoNuevo",
+			"idaccionpro",
+			"parseint",
+			"sumaPonderacion",
+			"la suma d",
+			"type=\"n",
+			"myModalTrimestresVariable",
+			"Xhtml",
+			"valores2",
+			"colonia",
+			"xml",
+			"change",
+			"comprometido",
+			"consultarExistencias",
+			"data",
+			"consultarExistenciasData",
+			"descripcion",
+			"consultarExistencias",
+			"valores2",
+			"valores2valores2",
+			"valores2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&oacute;",
+			"&iacute;",
+			"&eacute;",
+			"&aacute;",
+			"&ntilde;",
+			"&uacute;",
+			"&eacute;",
+			"&iacute;",
+			"&oacute;",
+			"&aacute;",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 2329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1145
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vistas/inicio.php",
+					"settings":
+					{
+						"buffer_size": 48100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 47.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".htaccess",
+					"settings":
+					{
+						"buffer_size": 866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "controladores/migracion/MigracionController.Class.php",
+					"settings":
+					{
+						"buffer_size": 27730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2201,
+								2201
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "modelos/dao/GenericDAO.Class.php",
+					"settings":
+					{
+						"buffer_size": 42217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14655,
+								14655
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5908.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "webservice/cliente/migracionAdministrativo/MigracionAdministrativo.php",
+					"settings":
+					{
+						"buffer_size": 1036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								163
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Applications/XAMPP/xamppfiles/htdocs/administrativo/logs/20170524_AdministrativoLocal_log.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "fachadas/migracion/MigracionFacade.Class.php",
+					"settings":
+					{
+						"buffer_size": 1692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "vistas/vistas/migracion/frmMigracionView.php",
+					"settings":
+					{
+						"buffer_size": 24054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "tribunal/connect/Configuracion.xml",
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config",
+				"tribunal/connect/Configuracion.xml"
+			],
+			[
+				"con",
+				"tribunal/connect/Configuracion.xml"
+			],
+			[
+				"frmm",
+				"vistas/vistas/migracion/frmMigracionView.php"
+			],
+			[
+				"migracion",
+				"fachadas/migracion/MigracionFacade.Class.php"
+			],
+			[
+				"infi",
+				"archivos/informacionEmpleados.json"
+			],
+			[
+				"motor",
+				"controladores/motorcp/MotorCPController.Class.php"
+			],
+			[
+				"techos",
+				"controladores/presupuestos/techosController.Class.php"
+			],
+			[
+				"carat",
+				"vistas/vistas/almacen/frmCaratulasView.php"
+			],
+			[
+				"existencia",
+				"controladores/almacen/ExistenciasController.Class.php"
+			],
+			[
+				"frmex",
+				"vistas/vistas/almacen/frmExistenciaView.php"
+			],
+			[
+				"caratu",
+				"vistas/vistas/almacen/frmCaratulasView.php"
+			],
+			[
+				"reporteex",
+				"vistas/vistas/almacen/frmReporteExistenciasView.php"
+			],
+			[
+				"reporteentr",
+				"vistas/vistas/almacen/frmReporteEntradasView.php"
+			],
+			[
+				"caratulas",
+				"vistas/vistas/almacen/frmCaratulasView.php"
+			],
+			[
+				"frmentra",
+				"vistas/vistas/almacen/frmEntradasView.php"
+			],
+			[
+				"pdf_reportesa",
+				"vistas/vistas/almacen/reportes/PDF_ReporteSalidas.php"
+			],
+			[
+				"reportesal",
+				"vistas/vistas/almacen/frmReporteSalidasView.php"
+			],
+			[
+				"indiadore",
+				"controladores/planeacion/indicadores/IndicadoresController.Class.php"
+			],
+			[
+				"genericfa",
+				"fachadas/generic/GenericFachada.Class.php"
+			],
+			[
+				"genericd",
+				"modelos/dao/GenericDAO.Class.php"
+			],
+			[
+				"indicadores",
+				"vistas/vistas/planeacion/indicadores/frmRegistroIndicadoresView.php"
+			],
+			[
+				"anteproyectopres",
+				"fachadas/presupuesto/anteproyectoPresupuestal/AnteproyectoPresupuestalFacade.class.php"
+			],
+			[
+				"frmregistroante",
+				"vistas/vistas/presupuesto/registroAnteproyecto/frmRegistroAnteproyectoView.php"
+			],
+			[
+				"antepro",
+				"fachadas/planeacion/AnteproyectoProgramaticoFacade.Class.php"
+			],
+			[
+				"tech",
+				"vistas/vistas/presupuesto/techos/frmTechosView.php"
+			],
+			[
+				"existencias",
+				"controladores/almacen/ExistenciasController.Class.php"
+			],
+			[
+				"reporteen",
+				"vistas/vistas/almacen/frmReporteEntradasView.php"
+			],
+			[
+				"",
+				"controladores/almacen/ReportesController.Class.php"
+			],
+			[
+				"reportescontro",
+				"controladores/almacen/ReportesController.Class.php"
+			],
+			[
+				"reportesfa",
+				"fachadas/almacen/ReportesFacade.Class.php"
+			],
+			[
+				"reportede",
+				"vistas/vistas/almacen/frmReporteDevolucionesView.php"
+			],
+			[
+				"almacencon",
+				"controladores/almacen/reportes/ReportesAlmacenController.Class.php"
+			],
+			[
+				"reportee",
+				"vistas/vistas/almacen/frmReporteEntradasView.php"
+			],
+			[
+				"adminal",
+				"vistas/vistas/almacen/frmAdminAlmacenView.php"
+			],
+			[
+				"reporteentra",
+				"vistas/vistas/almacen/frmReporteEntradasView.php"
+			],
+			[
+				"adminre",
+				"vistas/vistas/almacen/frmAdminReportes.php"
+			],
+			[
+				"pago",
+				"vistas/vistas/finanzas/tesoreria/frmAdminPagosView.php"
+			],
+			[
+				"pagos",
+				"fachadas/finanzas/subirPagosFacade.Class.php"
+			],
+			[
+				"frmreporteen",
+				"vistas/vistas/almacen/frmReporteEntradasView.php"
+			],
+			[
+				"solici",
+				"vistas/vistas/finanzas/pagos/frmSolicitudesPagoView.php"
+			],
+			[
+				"entradas",
+				"vistas/vistas/almacen/frmEntradasView.php"
+			],
+			[
+				"seguros",
+				"vistas/vistas/controlpatrimonial/frmSegurosView.php"
+			],
+			[
+				"pcliente",
+				"webservice/cliente/personal/PersonalCliente.php"
+			],
+			[
+				"personal",
+				"controladores/personal/PersonalController.Class.php"
+			],
+			[
+				"funcion",
+				"vistas/js/funciones.js"
+			],
+			[
+				"indicadoresfa",
+				"fachadas/planeacion/indicadores/IndicadoresFacade.Class.php"
+			],
+			[
+				"frmvariables",
+				"vistas/vistas/planeacion/variables/frmRegistroVariablesView.php"
+			],
+			[
+				"frmindicao",
+				"vistas/vistas/planeacion/indicadores/frmRegistroIndicadoresView.php"
+			],
+			[
+				"variablesc",
+				"controladores/planeacion/variables/VariablesController.Class.php"
+			],
+			[
+				"existen",
+				"controladores/almacen/ExistenciasController.Class.php"
+			],
+			[
+				"exis",
+				"vistas/vistas/almacen/frmExistenciaView.php"
+			],
+			[
+				"solicit",
+				"vistas/vistas/finanzas/pagos/frmSolicitudesPagoView.php"
+			],
+			[
+				"reportesa",
+				"controladores/almacen/reportes/ReportesAlmacenController.Class.php"
+			],
+			[
+				"pdf_",
+				"controladores/Imagenes/PDF_Suficiencia.php"
+			],
+			[
+				"pdf_compra",
+				"vistas/vistas/recursosmateriales/adquisiciones/PDF_ComprasMenores.php"
+			],
+			[
+				"pdf_contr",
+				"controladores/recursosmateriales/PDF_ContratoAdjudicacionDirecta.php"
+			],
+			[
+				"integracion",
+				"controladores/controlpatrimonial/IntegracionBienesController.Class.php"
+			],
+			[
+				"pdf_entr",
+				"controladores/almacen/PDF_EntradaContrarecibo.php"
+			],
+			[
+				"imagenescontroller",
+				"controladores/Imagenes/ImagenesController.Class.php"
+			],
+			[
+				"juzgados201705",
+				"archivos/juzgados20170509.json"
+			],
+			[
+				"j",
+				"archivos/juzgados20160809.json"
+			],
+			[
+				"comprasmeno",
+				"vistas/vistas/recursosmateriales/adquisiciones/frmComprasMenoresView.php"
+			],
+			[
+				"seguimientos",
+				"controladores/planeacion/SeguimientoProyectosController.Class.php"
+			],
+			[
+				"contrato",
+				"controladores/contratos/ContratosController.Class.php"
+			],
+			[
+				"pdf_contrat",
+				"controladores/recursosmateriales/PDF_ContratoAdjudicacionDirecta.php"
+			],
+			[
+				"imagenesc",
+				"controladores/Imagenes/ImagenesController.Class.php"
+			],
+			[
+				"depreciacion",
+				"controladores/depreciacion/depreciacionController.Class.php"
+			],
+			[
+				"depreciacionfac",
+				"fachadas/depreciacion/depreciacionFacade.Class.php"
+			],
+			[
+				"frmdepreca",
+				"vistas/vistas/finanzas/contabilidad/frmDepreciacionBienesView.php"
+			],
+			[
+				"integra",
+				"fachadas/controlpatrimonial/IntegracionBienesFacade.Class.php"
+			],
+			[
+				"integrac",
+				"fachadas/controlpatrimonial/IntegracionBienesFacade.Class.php"
+			],
+			[
+				"integraci",
+				"vistas/vistas/controlpatrimonial/frmIntegracionBienesView.php"
+			],
+			[
+				"pdf_registro",
+				"vistas/vistas/presupuesto/registroAnteproyecto/PDF_RegistroAnteproyecto.php"
+			],
+			[
+				"json",
+				"tribunal/json/JsonDecod.Class.php"
+			],
+			[
+				"funciones",
+				"vistas/js/funciones.js"
+			],
+			[
+				"pdf_entrad",
+				"controladores/almacen/reportes/PDF_EntradaContrarecibo.php"
+			],
+			[
+				"contratoad",
+				"controladores/recursosmateriales/PDF_ContratoAdjudicacionDirecta.php"
+			],
+			[
+				"adjudicaciond",
+				"vistas/vistas/recursosmateriales/adquisiciones/frmAdjudicacionDirectaView.php"
+			],
+			[
+				"frmoficios",
+				"vistas/vistas/areas/frmOficiosView.php"
+			],
+			[
+				"frmtec",
+				"vistas/vistas/presupuesto/techos/frmTechosView.php"
+			],
+			[
+				"juzgadoscl",
+				"webservice/cliente/juzgados/JuzgadoCliente.php"
+			],
+			[
+				"login",
+				"fachadas/gestion/login/LoginFacade.Class.php"
+			],
+			[
+				"adscripciones20170504",
+				"archivos/adscripciones20170504.json"
+			],
+			[
+				"suficie",
+				"controladores/suficienciasPresupuestales/suficienciasPresupuestalesController.Class.php"
+			],
+			[
+				"edifici",
+				"webservice/cliente/edificios/EdificiosCliente.php"
+			],
+			[
+				"juzgadoc",
+				"webservice/cliente/juzgados/JuzgadoCliente.php"
+			],
+			[
+				"entrada",
+				"controladores/almacen/EntradasController.Class.php"
+			],
+			[
+				"funcio",
+				"vistas/js/funciones.js"
+			],
+			[
+				"pagosco",
+				"controladores/finanzas/pagos/PagosController.Class.php"
+			],
+			[
+				"solicitud",
+				"vistas/vistas/finanzas/pagos/frmSolicitudesPagoView.php"
+			],
+			[
+				"entradasfa",
+				"fachadas/almacen/EntradasFacade.Class.php"
+			],
+			[
+				"entradasc",
+				"controladores/almacen/EntradasController.Class.php"
+			],
+			[
+				"idnicadoresc",
+				"controladores/planeacion/indicadores/IndicadoresController.Class.php"
+			],
+			[
+				"techosc",
+				"controladores/presupuestos/techosController.Class.php"
+			],
+			[
+				"admin",
+				"vistas/vistas/almacen/frmAdminAlmacenView.php"
+			],
+			[
+				"devolucion",
+				"vistas/vistas/almacen/frmReporteDevolucionesView.php"
+			],
+			[
+				"indicadore",
+				"controladores/planeacion/indicadores/IndicadoresController.Class.php"
+			],
+			[
+				"frmind",
+				"vistas/vistas/planeacion/indicadores/frmRegistroIndicadoresView.php"
+			],
+			[
+				"etrada",
+				"vistas/vistas/almacen/frmEntradasView.php"
+			],
+			[
+				"reportesalida",
+				"vistas/vistas/almacen/frmReporteSalidasView.php"
+			],
+			[
+				"entrdas",
+				"vistas/vistas/almacen/frmEntradasView.php"
+			],
+			[
+				"reportesala",
+				"controladores/almacen/reportes/ReportesAlmacenController.Class.php"
+			],
+			[
+				"reportesalma",
+				"fachadas/almacen/reportes/ReportesAlmacenFacade.Class.php"
+			],
+			[
+				"frmreporte",
+				"vistas/vistas/almacen/frmReporteEntradasView.php"
+			],
+			[
+				"existenciasf",
+				"fachadas/almacen/ExistenciasFacade.Class.php"
+			],
+			[
+				"frmexis",
+				"vistas/vistas/almacen/frmExistenciaView.php"
+			],
+			[
+				"solicitudes",
+				"vistas/vistas/finanzas/pagos/frmSolicitudesPagoView.php"
+			],
+			[
+				"frmregistroi",
+				"vistas/vistas/planeacion/indicadores/frmRegistroIndicadoresView.php"
+			],
+			[
+				"reproteal",
+				"fachadas/almacen/reportes/ReportesAlmacenFacade.Class.php"
+			],
+			[
+				"devol",
+				"vistas/vistas/almacen/frmReporteDevolucionesView.php"
+			],
+			[
+				"frmsal",
+				"vistas/vistas/almacen/frmReporteSalidasView.php"
+			],
+			[
+				"cbmfaca",
+				"fachadas/clasificadores/CbmFacade.Class.php"
+			],
+			[
+				"functi",
+				"vistas/chat/js/functions.js"
+			],
+			[
+				"cbmfrm",
+				"vistas/vistas/clasificadores/cbm/frmCbmView.php"
+			],
+			[
+				"sufic",
+				"controladores/suficienciasPresupuestales/suficienciasPresupuestalesController.Class.php"
+			],
+			[
+				"27.json",
+				"archivos/juzgados20170427.json"
+			],
+			[
+				"juzgados20170427.json",
+				"archivos/juzgados20170427.json"
+			],
+			[
+				"confi",
+				"tribunal/connect/Configuracion.xml"
+			],
+			[
+				"generic",
+				"fachadas/generic/GenericFachada.Class.php"
+			],
+			[
+				"generi",
+				"controladores/generic/GenericController.Class.php"
+			],
+			[
+				"entra",
+				"controladores/almacen/EntradasController.Class.php"
+			],
+			[
+				"reporte",
+				"vistas/vistas/almacen/frmReporteSalidasView.php"
+			],
+			[
+				"repor",
+				"vistas/vistas/finanzas/estadosfinancieros/PDF_ReporteTipoGasto.php"
+			],
+			[
+				"reprotesalca",
+				"fachadas/almacen/reportes/ReportesAlmacenFacade.Class.php"
+			],
+			[
+				"controllerrepor",
+				"controladores/almacen/reportes/ReportesAlmacenController.Class.php"
+			],
+			[
+				"almacen",
+				"vistas/vistas/almacen/frmAdminAlmacenView.php"
+			],
+			[
+				"juz",
+				"archivos/juzgados20160809.json"
+			],
+			[
+				"funci",
+				"vistas/js/funciones.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}

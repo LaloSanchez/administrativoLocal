@@ -1,0 +1,76 @@
+<Datos>
+    <Correo nombre="cateos">
+        <CorreoRemite>notificacion.electronica.penal@pjedomex.gob.mx</CorreoRemite>
+        <Subject>NOTIFICACION CATEO</Subject>
+        <!--<IpSMTP>10.22.151.70</IpSMTP>-->
+        <!--<IpSMTP>189.197.63.45</IpSMTP>-->
+        <IpSMTP>10.22.157.26</IpSMTP>
+        <login>notificacion.electronica.penal</login>
+        <password>electronica2015</password>
+        <aut></aut>
+        <typeAut></typeAut> 
+        <!--<PortSMTP>465</PortSMTP>-->
+        <PortSMTP>25</PortSMTP>
+    </Correo>
+    <Correo nombre="ordenes">
+        <CorreoRemite>notificacion.electronica.penal@pjedomex.gob.mx</CorreoRemite>
+        <Subject>NOTIFICACION ORDENES DE APREHENSION</Subject>
+        <!--<IpSMTP>10.22.151.70</IpSMTP>-->
+        <!--<IpSMTP>189.197.63.45</IpSMTP>-->
+        <IpSMTP>10.22.157.26</IpSMTP>
+        <login>notificacion.electronica.penal</login>
+        <password>electronica2015</password>
+        <aut></aut>
+        <typeAut></typeAut> 
+        <!--<PortSMTP>465</PortSMTP>-->
+        <PortSMTP>25</PortSMTP>
+    </Correo>
+    <Correo nombre="muestras">
+        <CorreoRemite>notificacion.electronica.penal@pjedomex.gob.mx</CorreoRemite>
+        <Subject>NOTIFICACION TOMA DE MUESTRAS</Subject>
+        <!--<IpSMTP>10.22.151.70</IpSMTP>-->
+        <!--<IpSMTP>189.197.63.45</IpSMTP>-->
+        <IpSMTP>10.22.157.26</IpSMTP>
+        <login>notificacion.electronica.penal</login>
+        <password>electronica2015</password>
+        <aut></aut>
+        <typeAut></typeAut> 
+        <!--<PortSMTP>465</PortSMTP>-->
+        <PortSMTP>25</PortSMTP>
+    </Correo>
+    <Correo nombre="apelaciones">
+        <CorreoRemite>notificacion.electronica.penal@pjedomex.gob.mx</CorreoRemite>
+        <Subject>NOTIFICACION APELACION CATEO</Subject>
+        <!--<IpSMTP>10.22.151.70</IpSMTP>-->
+        <!--<IpSMTP>189.197.63.45</IpSMTP>-->
+        <IpSMTP>10.22.157.26</IpSMTP>
+        <login>notificacion.electronica.penal</login>
+        <password>electronica2015</password>
+        <aut></aut>
+        <typeAut></typeAut> 
+        <!--<PortSMTP>465</PortSMTP>-->
+        <PortSMTP>25</PortSMTP>
+    </Correo>
+    <!--    <Correo nombre="cateos">
+        <CorreoRemite>notificacion.penal@pjedomex.gob.mx</CorreoRemite>
+        <Subject>NOTIFICACION CATEO</Subject>
+        <IpSMTP>10.22.157.26</IpSMTP>
+        <IpSMTP>189.197.63.45</IpSMTP>
+        <login>notificacion.penal</login>
+        <password></password>
+        <aut>true</aut>
+        <typeAut>ssl</typeAut> 
+        <PortSMTP>465</PortSMTP>
+    </Correo>
+    <Correo nombre="ordenes">
+        <CorreoRemite>notificacion.penal@pjedomex.gob.mx</CorreoRemite>
+        <Subject>NOTIFICACION ORDENES DE APREHENSION</Subject>
+        <IpSMTP>10.22.157.26</IpSMTP>
+        <IpSMTP>189.197.63.45</IpSMTP>
+        <login>notificacion.penal</login>
+        <password></password>
+        <aut>true</aut>
+        <typeAut>ssl</typeAut> 
+        <PortSMTP>465</PortSMTP>
+    </Correo>-->
+</Datos>

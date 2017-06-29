@@ -1,0 +1,7 @@
+{"linux":{  
+            "extensions":[  
+               "bin",
+               "deb",
+               "rpm"
+            ],
+            "icon":"fa-linux"}}

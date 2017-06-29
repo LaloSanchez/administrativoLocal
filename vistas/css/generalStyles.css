@@ -1,0 +1,15 @@
+.panel-heading{
+    background: #427468;
+    color: #ebf3f1;
+}
+
+.panel-group .panel-heading{
+    background: #427468;
+    color: #ebf3f1;
+}
+.panel-default > .panel-heading{
+    background: #427468;        
+    color: #ebf3f1;
+}
+
+.alert{display: none}

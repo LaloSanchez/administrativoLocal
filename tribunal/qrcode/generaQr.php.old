@@ -1,0 +1,8 @@
+<?php
+include_once(dirname(__FILE__)."/qrcode.class.php");
+@$codeQr = $_GET["qr"];
+$qr = new SocialQrCode ();
+$qr->setType ( SocialQrCode::QRCODE_TYPE_PNG );
+$qr->generate ( $codeQr );
+$qr->show ();
+?>

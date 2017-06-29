@@ -1,0 +1,152 @@
+<!--
+
+.shout_box {
+    background-color: #881518;
+    color : #fff !Important;
+    width: 340px;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    right: 0%;
+    z-index:999;
+}
+.box_iconMessage {
+    background-color: rgb(0, 139, 139);
+    color : #fff !Important;
+    overflow: hidden;
+    position: fixed;
+    bottom: 12%;
+    right: 2%;
+    z-index:999;
+}
+#minimize, #maximize{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    border-radius: 50%;
+    background-color: rgb(0, 139, 139);
+    margin-left: -30px;
+    margin-top: -30px;
+    z-index: 99999;
+	cursor : pointer;
+}
+#minimize span, #maximize span {
+    color : #fff;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 20px;
+    z-index: 99999;
+}
+.shout_box .headerChat .close_btn {
+    background: url(../images/close_btn.png) no-repeat 0px 0px;
+    float: right;
+    width: 15px;
+    height: 15px;
+}
+.shout_box .headerChat .close_btn:hover {
+    background: url(../images/close_btn.png) no-repeat 0px -16px;
+}
+
+.shout_box .headerChat .open_btn {
+    background: url(../images/close_btn.png) no-repeat 0px -32px;
+    float: right;
+    width: 15px;
+    height: 15px;
+}
+.shout_box .headerChat .open_btn:hover {
+    background: url(../images/close_btn.png) no-repeat 0px -48px;
+}
+.shout_box .headerChat{
+    padding: 15px 3px 5px 5px;
+    font: 11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+    font-weight: bold;
+    color:#fff;
+    border: 1px solid rgba(0, 39, 121, .76);
+    border-bottom:none;
+    cursor: pointer;
+}
+.shout_box .headerChat:hover{
+    background-color: #627BAE;
+}
+.shout_box .message_box {
+    background: #FFFFFF;
+    height: 500px;
+    overflow:hidden;
+    border: 1px solid #CCC;
+}
+.shout_msg{
+    margin-bottom: 10px;
+    display: block;
+    border-bottom: 1px solid #F3F3F3;
+    padding: 0px 5px 5px 5px;
+    font: 11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+    color:#7C7C7C;
+}
+.message_box:last-child {
+    border-bottom:none;
+}
+time{
+    font: 11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+    font-weight: normal;
+    float:right;
+    color: #D5D5D5;
+}
+.shout_msg .username{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.user_info input {
+    width: 98%;
+    height: 25px;
+    border: 1px solid #CCC;
+    border-top: none;
+    padding: 3px 0px 0px 3px;
+    font: 11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+}
+.shout_msg .username{
+    font-weight: bold;
+    display: block;
+}
+
+.controls {
+    bottom: 10px;
+    left:10px;
+}
+
+@media (max-width: 768px) { 
+    #minimize {
+        position: relative;
+        margin-top: 0;
+        margin-left: 0;
+        text-align: center;
+        border-radius: 0;
+        width: 100%;
+        height: 25px;
+    }
+    #minimize span {
+        width: 100%;
+        text-align: center;
+        margin-top: 0.5%;
+        margin-left: 0;
+        position: relative;
+    }
+    
+    #maximize {
+        position: relative;
+        margin-left: 0;
+        margin-top: 0;
+        border-radius: 0;
+    }
+}
+
+@media (max-width: 320px) {
+    .shout_box{
+        width: 300px;
+    }
+}
+@media (max-height: 480px){
+    .message_box {
+        height: 300px !Important;
+    }
+}
+-->

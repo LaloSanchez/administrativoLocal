@@ -1,0 +1,168 @@
+#menuSuperior{
+    background-color: #941822;
+    border-bottom: 3px solid #82161F;
+}
+
+#menuImgPersonal {
+    border-radius: 50%;
+    margin: 3px;
+    float: left;
+    border: 1.5px solid #FFFFFF;
+    width: 75px;
+    height: 75px;
+    background-color: #941822;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 135%;
+}
+
+#ulDatosUsuario {
+    display: none;
+    margin: 3px;
+    position: absolute;
+    /*border: 1.5px solid #FFFFFF;*/
+    width: 220px;
+    min-height: 75px;
+    z-index: 1000;
+    background-color: #941822;
+    color: #FFFFFF;
+}
+
+#ulDatosUsuario li {
+    background-color: transparent;
+    border: 0px;
+}
+
+#ulDatosUsuario li a:active, #ulDatosUsuario li a:hover {
+    color: #FFFFFF;
+}
+#ulDatosUsuario li a {
+    color: #FFFFFF;
+    text-decoration: none;
+    display: block;
+}
+
+.icoIntranet{
+    font-size: 40pt;
+}
+.navbar-nav > li > .dropdown-menu {
+    background-color: #66646A;
+    color: #FFFFFF;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #AD111D;
+    text-decoration: none;
+    background-color: #f5f5f5;
+}
+.dropdown-menu > li > a {
+    color: #FFFFFF;
+}
+.dropdown-header {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar > .container-fluid .navbar-brand {
+    margin-left: 0px;
+}
+
+.navbar-nav {
+    margin-bottom: -5px;
+}
+.navbar-nav > li {
+    border-left: 1px solid #8D0812;
+    border-right: 1px solid #BB1320;
+    margin-left: -4px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #FFFFFF;
+    display: table-cell;
+    padding: 0px 10px;
+    /*line-height: 78px;*/
+    /*font-weight: bold;*/
+    height: 80px;
+    vertical-align: middle;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #FFFFFF;
+    background-color: #66646A;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    background-color: transparent; /*#AD111D*/
+}
+
+.brandLogoPJEM{
+    margin-top: 15px;
+}
+
+.navbar-toggle {
+    margin-top: 14px;
+}
+/* CSS used here will be applied after bootstrap.css */
+@media (min-width: 1385px) {
+    .navbar-nav {
+        text-align: center;
+        float: left;
+    }
+
+    .navbar-nav > li {
+        float: none;
+        display: inline-block;
+    }
+}
+@media (max-width: 1385px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0;
+    }
+    /* since 3.1.0 */
+    .navbar-collapse.collapse.in { 
+        display: block!important;
+    }
+    .collapsing {
+        overflow: hidden!important;
+    }
+    /* Logo Intranet */
+    #aDatosUsuario{
+        /* display: none; */
+    }
+    .navbar-inverse .navbar-nav > li > a {
+        height: 40px;
+    }
+    .brSalto, #spanIcoIntranet{
+        display: none;
+    }
+}

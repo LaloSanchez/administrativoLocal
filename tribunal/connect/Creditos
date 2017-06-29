@@ -1,0 +1,18 @@
+La presente clase fue desarrollada para poder realizar un plus de conexion a
+diversas bases de datos (Gestores de bases de datos).
+
+Esta clase contempla los siguientes gestores:
+
+    1.- Mysql
+    2.- SqlServer
+    3.- PostgresSQL
+    4.- Interbase
+    5.- Oracle
+
+Dicha clase soporta que se puedan incluir mas clases de conexion a diferentes
+gestores que no se encuentren programadas en el paquete.
+
+Desarrollo: Daniel Alejandro Gaona Mercado
+Analisis: Daniel Alejandro Gaona Mercado
+Version: 1.0
+
