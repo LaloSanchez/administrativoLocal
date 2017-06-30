@@ -892,93 +892,101 @@ $numEmpleado = @($_GET["ne"]);
             }else{
                 var numEmpleado=$("#numEmpleadoCombo").val();
             }
-            $("#tab-informacion").addClass("active");
-            $("#sobrantes").removeClass("active");
-            $("#faltantes").removeClass("active");
-            $("#informacion").addClass("active");
-            $("#tab-sobrantes").removeClass("active");
-            $("#tab-faltantes").removeClass("active");
-            $(".informacion").removeClass("hola");
-            $(".sobrantes").addClass("hola");
-            $(".faltantes").addClass("hola");
-            getEmpleado(numEmpleado);
-            $.ajax({
-                type: "POST",
-                url: "../fachadas/resguardos/ResguardoIndividualFacade.Class.php",
-                async: false,
-                dateType: "json",
-                data: {
-                    accion: "cargarDatosEmpleado",
-                    numEmpleado: numEmpleado
-                },
-                success: function (datos) {
-                    try{
-                    datos=eval("("+datos+")");
-                        var table="";
-                        table +='<table class="table table-striped table-bordered " id="tableRegistro"  style="width:100%;">';
-                        table +='    <thead class="bordered-darkorange">';
-                        table +='        <tr role="row">';
-                        table +='            <th>Codigo</th>';
-                        table +='            <th>Denominaci&oacute;n</th>';
-                        table +='            <th>N&uacute;mero de Serie</th>';
-                        table +='            <th>Precio Actual</th>';
-                        table +='            <th>Estatus</th>';
-                        table +='            <th>Verificado</th>';
-                        table +='            <th>Eliminar</th>';
-                        table +='        </tr>';
-                        table +='    </thead>';
-                        table +='    <tbody>';
-                        var contador=0;
-                        $.each(datos.data, function(index,element){
-                            var checked = "";
-                            if(element.cveEstatus == 122){
-                                contador++;
-                                checked="checked"
-                            }
-                            table +='<tr>';
-                            table +='    <td>'+element.codigoPropio+'</td>';
-                            table +='    <td>'+element.denominacion+'</td>';
-                            if(element.numeroSerie != "" && element.numeroSerie != null){
-                                table +='    <td>'+element.numeroSerie+'</td>';
-                            }else{
-                                table +='    <td>N/A</td>';
-                            }
-                            table +='    <td>'+element.precioActual+'</td>';
-                            table +='    <td>'+element.desEstatus+'</td>';
-                            table +='   <td>';
-                            table +='       <div class="checkbox">';
-                            table +='           <label style="font-size: 2em">';
-                            table +='               <input class="guardarResguardo" type="checkbox" value="" data-idresguardoindividual=' + element.idResguardoIndividual + ' disabled="disabled" '+checked+'>';
-                            table +='               <span class="cr"><i class="cr-icon fa fa-check"></i></span>';
-                            table +='           </label>';
-                            table +='       </div>';
-                            table +='   </td>';
-                            if(element.cveEstatus == 122){
-                                table +='   <td><center><button class="btn btn-primary" id="btnEliminarCuenta" onclick="validarEliminarBien('+ element.idResguardoIndividual +','+element.idInventario+')"><i class="fa fa-trash-o"></i></button></center></td>';
-                            }else{
-                                table +='   <td><center><button class="btn btn-primary" id="btnEliminarCuenta" onclick="validarEliminarBien('+ element.idResguardoIndividual +','+element.idInventario+')" disabled="disabled"><i class="fa fa-trash-o"></i></button></center></td>';
-                            }
-                            
-                            table +='</tr>';
-                        });
-                        table +='    </tbody>';
-                        table +='</table>';
-                        $("#divTabla").html(table);
-                        cargarDatatable('tableRegistro');
-                        if(contador == datos.totalCount){
-                            $("#btnFinalizarRegistro").attr("disabled",true);
-                        }else{
-                            $("#btnFinalizarRegistro").attr("disabled",false);
-                        }
-                    }catch(err){
-                        $.alert({
-                            title: '<center style="color:#881518;">Error!</center>',
-                            content: '<center>Error</center>',
-                            confirmButton: 'Aceptar'
-                        });
-                    }
-                }
-            });
+			if(numEmpleado != "" && numEmpleado != null){
+				$("#tab-informacion").addClass("active");
+				$("#sobrantes").removeClass("active");
+				$("#faltantes").removeClass("active");
+				$("#informacion").addClass("active");
+				$("#tab-sobrantes").removeClass("active");
+				$("#tab-faltantes").removeClass("active");
+				$(".informacion").removeClass("hola");
+				$(".sobrantes").addClass("hola");
+				$(".faltantes").addClass("hola");
+				getEmpleado(numEmpleado);
+				$.ajax({
+					type: "POST",
+					url: "../fachadas/resguardos/ResguardoIndividualFacade.Class.php",
+					async: false,
+					dateType: "json",
+					data: {
+						accion: "cargarDatosEmpleado",
+						numEmpleado: numEmpleado
+					},
+					success: function (datos) {
+						try{
+							datos=eval("("+datos+")");
+							var table="";
+							table +='<table class="table table-striped table-bordered " id="tableRegistro"  style="width:100%;">';
+							table +='    <thead class="bordered-darkorange">';
+							table +='        <tr role="row">';
+							table +='            <th>Codigo</th>';
+							table +='            <th>Denominaci&oacute;n</th>';
+							table +='            <th>N&uacute;mero de Serie</th>';
+							table +='            <th>Precio Actual</th>';
+							table +='            <th>Estatus</th>';
+							table +='            <th>Verificado</th>';
+							table +='            <th>Eliminar</th>';
+							table +='        </tr>';
+							table +='    </thead>';
+							table +='    <tbody>';
+							var contador=0;
+							$.each(datos.data, function(index,element){
+								var checked = "";
+								if(element.cveEstatus == 122){
+									contador++;
+									checked="checked"
+								}
+								table +='<tr>';
+								table +='    <td>'+element.codigoPropio+'</td>';
+								table +='    <td>'+element.denominacion+'</td>';
+								if(element.numeroSerie != "" && element.numeroSerie != null){
+									table +='    <td>'+element.numeroSerie+'</td>';
+								}else{
+									table +='    <td>N/A</td>';
+								}
+								table +='    <td>'+element.precioActual+'</td>';
+								table +='    <td>'+element.desEstatus+'</td>';
+								table +='   <td>';
+								table +='       <div class="checkbox">';
+								table +='           <label style="font-size: 2em">';
+								table +='               <input class="guardarResguardo" type="checkbox" value="" data-idresguardoindividual=' + element.idResguardoIndividual + ' disabled="disabled" '+checked+'>';
+								table +='               <span class="cr"><i class="cr-icon fa fa-check"></i></span>';
+								table +='           </label>';
+								table +='       </div>';
+								table +='   </td>';
+								if(element.cveEstatus == 122){
+									table +='   <td><center><button class="btn btn-primary" id="btnEliminarCuenta" onclick="validarEliminarBien('+ element.idResguardoIndividual +','+element.idInventario+')"><i class="fa fa-trash-o"></i></button></center></td>';
+								}else{
+									table +='   <td><center><button class="btn btn-primary" id="btnEliminarCuenta" onclick="validarEliminarBien('+ element.idResguardoIndividual +','+element.idInventario+')" disabled="disabled"><i class="fa fa-trash-o"></i></button></center></td>';
+								}
+								
+								table +='</tr>';
+							});
+							table +='    </tbody>';
+							table +='</table>';
+							$("#divTabla").html(table);
+							cargarDatatable('tableRegistro');
+							if(contador == datos.totalCount){
+								$("#btnFinalizarRegistro").attr("disabled",true);
+							}else{
+								$("#btnFinalizarRegistro").attr("disabled",false);
+							}
+						}catch(err){
+							$.alert({
+								title: '<center style="color:#881518;">Error!</center>',
+								content: '<center>Error</center>',
+								confirmButton: 'Aceptar'
+							});
+						}
+					}
+				});
+			}else{
+				$.alert({
+					title: '<center style="color:#881518;">Error!</center>',
+					content: '<center>Selecciona un empleado</center>',
+					confirmButton: 'Aceptar'
+				});
+			}
         }
         function modalAgrgarBien(){
             $("#codigoPropio").val("");
